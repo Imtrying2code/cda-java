@@ -4,14 +4,17 @@ import javax.swing.JOptionPane;
 
 public class Tp2Exo1 {
 	public static void main(String[] args) {
-		Scanner user = new Scanner(System.in);
+		Scanner user = new Scanner(System.in);	
 		
-		String text = JOptionPane.showInputDialog(null, "Saisir un entier : ");
-		String text2 = JOptionPane.showInputDialog(null, "Saisir un entier : ");
+		int valeur_1;
+		System.out.print("Saisir un entier : ");
+		valeur_1 = user.nextInt();
+		int valeur_2;
+		System.out.print("Saisir un entier : ");
+		valeur_2 = user.nextInt();
 		
-
-		int valeur1 = Integer.parseInt(text); 
-		int valeur21 = Integer.parseInt(text2); 
-		JOptionPane.showMessageDialog(null, "Somme = "+ (valeur1 + valeur21)+ " Produit = "+ (valeur1 * valeur21));
+		System.out.print("Somme des deux valeurs : "+ (valeur_1+valeur_2)+ " Produit des deux valeurs : "+ (valeur_1 * valeur_2));
+		user.close();
 	}
+
 }
