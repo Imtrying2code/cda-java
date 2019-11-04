@@ -1,7 +1,6 @@
 package tp1;
 
 import java.util.Scanner;
-
 import javax.swing.JOptionPane;
 
 public class Tp1Exo1 {
@@ -19,7 +18,6 @@ public class Tp1Exo1 {
 		
 		
 		System.out.print("Somme des deux valeurs : "+ (valeur_1+valeur_2)+ " Produit des deux valeurs : "+ (valeur_1 * valeur_2));
-		
 		user.close();
 	}
 
