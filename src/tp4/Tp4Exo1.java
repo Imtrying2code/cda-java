@@ -1,3 +1,8 @@
+/*Nom du répertoire : src
+Nom du projet : Tp4
+Nom de la classe : Exo1
+Auteur : Franck */
+
 package tp4;
 
 import java.util.Scanner;
