@@ -1,19 +1,16 @@
 package tp3;
 /* Réaliser un programme qui permet de traiter (lire et afficher) 
- * tous les types primitifs du langage JAVA, 
- * ainsi   que les chaînes de caractères (String).    
- * Rappel : Les types primitifs sont : 
- * boolean, byte, char, short, int, long, float et double.   
- * Remarques :  La saisie d'une valeur réelle se fait en utilisant 
- * une virgule et non pas un point.    
- * La saisie d'un booléen se fait en tapant false ou true 
- * (et non pas 0 ou 1).    Lecture.clavier.nextLine(); 
- * // Vide le tampon clavier. 
- */
+  tous les types primitifs du langage JAVA, 
+  ainsi   que les chaînes de caractères (String).    
+  Rappel : Les types primitifs sont : 
+  boolean, byte, char, short, int, long, float et double.   
+  Remarques :  La saisie d'une valeur réelle se fait en utilisant 
+  une virgule et non pas un point.    
+  La saisie d'un booléen se fait en tapant false ou true 
+  (et non pas 0 ou 1).    Lecture.clavier.nextLine(); 
+ // Vide le tampon clavier.*/
 
 import java.util.Scanner;
-
-import javax.swing.JOptionPane;
 
 public class Tp3Exo1 {
 

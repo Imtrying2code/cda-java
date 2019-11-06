@@ -11,5 +11,6 @@ public class Tp2Exo2 {
 		int valeur1 = Integer.parseInt(text); 
 		int valeur21 = Integer.parseInt(text2); 
 		JOptionPane.showMessageDialog(null, "Somme = "+ (valeur1 + valeur21)+ " Produit = "+ (valeur1 * valeur21));
+	user.close();
 	}
 }

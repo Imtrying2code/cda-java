@@ -8,7 +8,6 @@ public class Tp3Exo3
 			// TODO Auto-generated method stub
 	   
 			 int n=7,p=4;   
-			 int x=12, y=1;
 			 int negatif = -32000; 
 
 			 

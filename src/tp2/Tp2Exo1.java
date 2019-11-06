@@ -1,6 +1,5 @@
 package tp2;
 import java.util.Scanner;
-import javax.swing.JOptionPane;
 
 public class Tp2Exo1 {
 	public static void main(String[] args) {
