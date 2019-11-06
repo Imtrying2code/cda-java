@@ -34,7 +34,7 @@ public class Tp3Exo1 {
 	
 	user.nextLine();
 	short valeur_3 = 10;
-	System.out.println("Saisir une valeur shirt en 'byte' entre '-32768' et '32767' : ");
+	System.out.println("Saisir une valeur shirt entre '-32768' et '32767' : ");
 	valeur_3 = user.nextShort();
 	System.out.println("La valeur shirt vaut : "+ valeur_3);
 	
