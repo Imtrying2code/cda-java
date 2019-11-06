@@ -12,7 +12,7 @@ public class Tp3Exo3
 			 int negatif = -32000; 
 
 			 
-			  System.out.println("n&p,n|p,n^p = " + (x&y) +" "+ (n|p) + " " + (n^p));   
+			  System.out.println("n&p,n|p,n^p = " + (n&p) +" "+ (n|p) + " " + (n^p));   
 			  System.out.println("n>>2,n>>4,n<<2 = " + (n>>2) +" "+ (n>>4) + " " + (n<<2)); 
 			  System.out.println("negatif>>2, negatif>>4 = " + (negatif>>2) +" "+(negatif>>4));   
 			  System.out.println("negatif>>>2, negatif>>>4 = " + (negatif>>>2) +" "+ (negatif>>>4));
