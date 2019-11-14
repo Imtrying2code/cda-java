@@ -1,5 +1,5 @@
-/*Nom du répertoire : src
-Nom du projet : Tp4
+/*Nom du répertoire : TP4
+Nom du projet : Tp4Exo3
 Nom de la classe : Exo3
 Auteur : Franck */
 
