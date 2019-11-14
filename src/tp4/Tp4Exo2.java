@@ -27,7 +27,7 @@ public class Tp4Exo2
 			{
 			System.out.println("Saisir une note : ");
 			note = user.nextFloat();
-			if(note !=i) 
+			if(note >=i) 
 			{
 			somme += note;
 			compteur +=1;
