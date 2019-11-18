@@ -23,7 +23,9 @@ public class Tp4Exo7 {
 
 		System.out.println("Veuillez saisir un bit entre 0 et 31 inclus");
 		bits = user.nextInt();
-
+		if (bits > bitsStrings.length()) {
+			System.out.println("Valeur du bit à la position "+ bits+" puissance de 2 est :"+ 0);
+		} else {
 		do {
 			resultat = (entier / 2);			
 			resultat_mod = entier % 2;
@@ -34,5 +36,6 @@ public class Tp4Exo7 {
 		System.out.println("Valeur du bit à la position "+ bits+" puissance de 2 est :"+ bitsStrings.charAt(bits));
 		
 		user.close();
+		}
 	}
 }
