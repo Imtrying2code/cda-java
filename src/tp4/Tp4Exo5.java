@@ -1,7 +1,8 @@
-/*Nom du rï¿½pertoire : TP4
-Nom du projet : Tp4Exo5
-Nom de la classe : Tp4Exo5
-Auteur : Franck */
+/* Nom du répertoire : TP4
+* Nom du projet : Tp4Exo5
+* Nom de la classe : Tp4Exo5
+* Auteur : Franck */
+
 
 package tp4;
 import java.util.Scanner;
@@ -14,7 +15,7 @@ public class Tp4Exo5 {
 		int tentative = 0;
 		Scanner clavier = new Scanner(System.in);
 		
-		System.out.println("Bonjour! Quel est le code d'accï¿½s?");
+		System.out.println("Bonjour! Quel est le code d'accès?");
 		int n = clavier.nextInt();
 		tentative++;
 		while (tentative<5) {
@@ -23,8 +24,8 @@ public class Tp4Exo5 {
 				break;
 			}
 			else {
-				System.out.println("Code erronï¿½! Il vous reste "+(5-tentative)+" tentative(s)");
-				System.out.println("Quel est le code d'accï¿½s?");
+				System.out.println("Code erroné! Il vous reste "+(5-tentative)+" tentative(s)");
+				System.out.println("Quel est le code d'accès?");
 				n = clavier.nextInt();
 			}
 			tentative++;
