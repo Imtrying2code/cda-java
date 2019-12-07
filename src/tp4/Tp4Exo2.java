@@ -1,7 +1,9 @@
-/*Nom du répertoire : src
-Nom du projet : Tp4
-Nom de la classe : Exo2
-Auteur : Franck */
+/*
+ * Nom du répertoire : TP4
+ * Nom du projet : Tp4Exo2
+ * Nom de la classe : Tp4Exo2
+ * Auteur : Franck 
+*/
 
 package tp4;
 

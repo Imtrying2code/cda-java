@@ -1,7 +1,10 @@
-/* Nom du répertoire : TP4
-* Nom du projet : Tp4Exo6
-* Nom de la classe : Tp4Exo6
-* Auteur : Franck */
+/*
+ * Nom du répertoire : TP4
+ * Nom du projet : Tp4Exo6
+ * Nom de la classe : Tp4Exo6
+ * Auteur : Franck 
+*/
+
 
 package tp4;
 import java.util.Scanner ;

@@ -1,7 +1,9 @@
-/* Nom du répertoire : TP4
-* Nom du projet : Tp4Exo5
-* Nom de la classe : Tp4Exo5
-* Auteur : Franck */
+/*
+ * Nom du répertoire : TP4
+ * Nom du projet : Tp4Exo5
+ * Nom de la classe : Tp4Exo5
+ * Auteur : Franck 
+*/
 
 
 package tp4;

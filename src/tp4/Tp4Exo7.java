@@ -1,11 +1,8 @@
-/* Nom du répertoire : TP4
-* Nom du projet : Tp4Exo7
-* Nom de la classe : Tp4Exo7
-* Auteur : Franck 
-* Réaliser un programme : 
-* => L'utilisateur saisie un nombre entre 0 et +2147483647.
-* => L'uitisateur saisi un bit entre 0 et 31 bits.
-* => Après traitement le programme affichera la valeur du bits saisie (0 ou 1).
+/*
+ * Nom du répertoire : TP4
+ * Nom du projet : Tp4Exo7
+ * Nom de la classe : Tp4Exo7
+ * Auteur : Franck 
 */
 
 package tp4;
